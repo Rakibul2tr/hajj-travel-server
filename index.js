@@ -112,7 +112,7 @@ async function run() {
             $set: {
              username:updateuser.username,
              email:updateuser.email,
-             title:updateuser.tilte,
+             title:updateuser.title,
              addres:updateuser.addres,
              description:updateuser.description,
              status:updateuser.status
